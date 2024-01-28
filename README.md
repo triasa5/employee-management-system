@@ -1,6 +1,4 @@
-# Project Title
-
-Brief description of your project.
+# Employee Management System
 
 ## Table of Contents
 
